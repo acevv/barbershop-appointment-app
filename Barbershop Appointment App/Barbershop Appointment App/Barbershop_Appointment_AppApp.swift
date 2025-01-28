@@ -11,7 +11,7 @@ import SwiftUI
 struct Barbershop_Appointment_AppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AppointmentListView()
         }
     }
 }
